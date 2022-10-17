@@ -3,25 +3,25 @@
 This project is a Blogging Application Where user can Login and Register itself and Post Blogging and Anyone can See What other persion had posted
 #Used Technologies is 
 
-Java (core)
-JSP
-Servlets
-Mysql
-Html
-CSS
-Bootstrap
-Materialize CSS
-Ajax
-JQuery
-Java Script
+Java (core),
+ JSP,
+ Servlets,
+ Mysql,
+ Html,
+ CSS,
+ Bootstrap,
+ Materialize CSS,
+ Ajax,
+ JQuery,
+ Java Script,
 
 #Software required:
 
-Netbeans
-Xammp Server
-web browser
-Glassifish or tomcat
-MySql Connector
+Netbeans,
+ Xammp Server,
+ web browser,
+ Glassifish or tomcat,
+ MySql Connector,
 
 #Home Page
 
