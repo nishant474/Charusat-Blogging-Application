@@ -1,6 +1,6 @@
 # Charusat-Blogging-Application
 
-This project is a Blogging Application Where user can Login and Register itself and Post Blogging and Anyone can See What other persion had posted
+This project is a Blogging Application Where user can Login and Register itself and Post Blogging and Anyone can See What other person had posted
 #Used Technologies is 
 
 Java (core),
